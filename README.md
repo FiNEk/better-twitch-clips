@@ -5,10 +5,11 @@ Basically, it makes [this](https://i.imgur.com/4kc82v4.jpg) look like [that](htt
 Installation
 ------
 1. Download and save anywhere you want.
-2. Open link - [chrome://extensions](chrome://extensions)
-3. Enable developer mode ([screenshot](https://developer.chrome.com/static/images/get_started/load_extension.png)).
-4. Press LOAD UNPACKED.
-5. Profit.
+2. Copy this URL - [chrome://extensions](chrome://extensions)
+3. Paste it into chrome search bar.
+4. Enable developer mode ([screenshot](https://developer.chrome.com/static/images/get_started/load_extension.png)).
+5. Press LOAD UNPACKED.
+6. Profit.
 
 F.A.Q.
 ------
