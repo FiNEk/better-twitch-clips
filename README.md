@@ -12,7 +12,7 @@ Installation
 
 F.A.Q.
 ------
-### Why such complicated installation, isnt it easier to upload it to chrome webstore?
+- #### Why such complicated installation, isnt it easier to upload it to chrome webstore?
 Yes, its easier. But chrome webstore makes you pay 5$ for verification. Because im very poor and mainly i made this for myself im not going to do that yet.
-### Developer mode installation? You surely want to steal my credit card!
+- #### Developer mode installation? You surely want to steal my credit card!
 There is 0 javascript. Whole extenstion is 10 lines of css.
