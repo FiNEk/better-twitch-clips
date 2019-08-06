@@ -1,0 +1,10 @@
+{
+  "name": "better-twitch-clips",
+  "version": "0.1.0",
+  "description": "css injection into clips.twitch.tv",
+  "main": "index.js",
+  "repository": "not yet",
+  "author": "efOne",
+  "license": "MIT",
+  "private": true
+}

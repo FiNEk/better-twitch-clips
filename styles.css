@@ -1,0 +1,16 @@
+.clips-watch {
+  margin-top: 2rem;
+  min-width: 100%!important; 
+}
+.clips-sidebar {
+  height: 45vw!important;
+}
+.clips-top-nav {
+  display: none;
+}
+#root > div > div {
+  padding-top: 0!important;
+}
+#root > div > div > div > div.simplebar-scroll-content > div > div > main > div > div > div.tw-align-items-center.tw-flex.tw-justify-content-end.tw-mg-y-1.tw-relative.tw-z-above {
+  display: none!important;
+}
