@@ -1,7 +1,7 @@
 # Wide Twitch Clips
 I dont know what twitch was thinking making so much empty space on clips player page. This small extension fixes that.
 Basically, it makes [this](https://i.imgur.com/4kc82v4.jpg) look like [that](https://i.imgur.com/TAMfXSN.jpg).
-
+*this still works like a charm after twitch design update*
 Installation
 ------
 There is 2 different ways to use this.
